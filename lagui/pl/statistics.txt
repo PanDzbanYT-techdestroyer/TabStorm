@@ -1,0 +1,2 @@
+# usun ten tekst i miej pewnosc ze ten 
+# plik jest w tej samej lokalizacji co index.php
