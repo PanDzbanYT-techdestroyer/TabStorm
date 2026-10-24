@@ -1,0 +1,2 @@
+# remove this text after creation and 
+# make sure its in the same directory ad # your lagui
